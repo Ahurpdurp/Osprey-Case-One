@@ -1,0 +1,20 @@
+﻿@model Client
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+    <div class="text-center">
+        <h5 class="">Add New Client for <u>Eagle Consulting</u></h5>
+        <form action="/home/addclient" method="POST">
+        <div class="d-flex flex-column w-50 mr-auto ml-auto">
+            <input name="CompanyName" class='text-center mt-3' placeholder="Company Name" />
+            <input name="FirstName"class='text-center mt-3' placeholder="Contact First Name" />
+            <input name="LastName"class='text-center mt-3' placeholder="Contact Last Name" />
+            <input name="City"class='text-center mt-3' placeholder="City" />
+            <input name="State"class='text-center mt-3' placeholder="State" />
+            <input name="Zip"class='text-center mt-3' placeholder="Zip" />
+            <button class="btn btn-primary mt-3 w-25 mr-auto ml-auto" type="submit">Add Client</button>
+        </div>
+            <p>@ViewBag.Message</p>
+        </form>
+    </div>

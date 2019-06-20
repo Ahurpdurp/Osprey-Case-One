@@ -1,0 +1,67 @@
+C:\Users\ahurpdurp\Documents\Osprey Test\Case One\bin\Debug\netcoreapp2.2\Case One.deps.json
+C:\Users\ahurpdurp\Documents\Osprey Test\Case One\bin\Debug\netcoreapp2.2\Case One.runtimeconfig.json
+C:\Users\ahurpdurp\Documents\Osprey Test\Case One\bin\Debug\netcoreapp2.2\Case One.runtimeconfig.dev.json
+C:\Users\ahurpdurp\Documents\Osprey Test\Case One\bin\Debug\netcoreapp2.2\Case One.dll
+C:\Users\ahurpdurp\Documents\Osprey Test\Case One\bin\Debug\netcoreapp2.2\Case One.pdb
+C:\Users\ahurpdurp\Documents\Osprey Test\Case One\bin\Debug\netcoreapp2.2\Case One.Views.dll
+C:\Users\ahurpdurp\Documents\Osprey Test\Case One\bin\Debug\netcoreapp2.2\Case One.Views.pdb
+C:\Users\ahurpdurp\Documents\Osprey Test\Case One\obj\Debug\netcoreapp2.2\Case One.csprojAssemblyReference.cache
+C:\Users\ahurpdurp\Documents\Osprey Test\Case One\obj\Debug\netcoreapp2.2\Case One.csproj.CoreCompileInputs.cache
+C:\Users\ahurpdurp\Documents\Osprey Test\Case One\obj\Debug\netcoreapp2.2\Case One.RazorAssemblyInfo.cache
+C:\Users\ahurpdurp\Documents\Osprey Test\Case One\obj\Debug\netcoreapp2.2\Case One.RazorAssemblyInfo.cs
+C:\Users\ahurpdurp\Documents\Osprey Test\Case One\obj\Debug\netcoreapp2.2\Case One.AssemblyInfoInputs.cache
+C:\Users\ahurpdurp\Documents\Osprey Test\Case One\obj\Debug\netcoreapp2.2\Case One.AssemblyInfo.cs
+C:\Users\ahurpdurp\Documents\Osprey Test\Case One\obj\Debug\netcoreapp2.2\Case One.TagHelpers.input.cache
+C:\Users\ahurpdurp\Documents\Osprey Test\Case One\obj\Debug\netcoreapp2.2\Case One.TagHelpers.output.cache
+C:\Users\ahurpdurp\Documents\Osprey Test\Case One\obj\Debug\netcoreapp2.2\Case One.RazorCoreGenerate.cache
+C:\Users\ahurpdurp\Documents\Osprey Test\Case One\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\ahurpdurp\Documents\Osprey Test\Case One\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\ahurpdurp\Documents\Osprey Test\Case One\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\ahurpdurp\Documents\Osprey Test\Case One\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\ahurpdurp\Documents\Osprey Test\Case One\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\ahurpdurp\Documents\Osprey Test\Case One\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\ahurpdurp\Documents\Osprey Test\Case One\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\ahurpdurp\Documents\Osprey Test\Case One\obj\Debug\netcoreapp2.2\Case One.RazorTargetAssemblyInfo.cache
+C:\Users\ahurpdurp\Documents\Osprey Test\Case One\obj\Debug\netcoreapp2.2\Case One.RazorTargetAssemblyInfo.cs
+C:\Users\ahurpdurp\Documents\Osprey Test\Case One\obj\Debug\netcoreapp2.2\Case One.Views.pdb
+C:\Users\ahurpdurp\Documents\Osprey Test\Case One\obj\Debug\netcoreapp2.2\Case One.dll
+C:\Users\ahurpdurp\Documents\Osprey Test\Case One\obj\Debug\netcoreapp2.2\Case One.pdb
+C:\Users\ahurpdurp\Documents\Osprey Test\Case One\obj\Debug\netcoreapp2.2\Case One.csproj.CopyComplete
+C:\Users\ahurpdurp\Documents\Osprey Test\Case One\obj\Debug\netcoreapp2.2\Razor\Pages\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\ahurpdurp\Documents\Osprey Test\Case One\obj\Debug\netcoreapp2.2\Razor\Views\Home\ViewClients.g.cshtml.cs
+C:\Users\ahurpdurp\Documents\Osprey Test\ConsultingOrganization\Case One\bin\Debug\netcoreapp2.2\Case One.deps.json
+C:\Users\ahurpdurp\Documents\Osprey Test\ConsultingOrganization\Case One\bin\Debug\netcoreapp2.2\Case One.runtimeconfig.json
+C:\Users\ahurpdurp\Documents\Osprey Test\ConsultingOrganization\Case One\bin\Debug\netcoreapp2.2\Case One.runtimeconfig.dev.json
+C:\Users\ahurpdurp\Documents\Osprey Test\ConsultingOrganization\Case One\bin\Debug\netcoreapp2.2\Case One.dll
+C:\Users\ahurpdurp\Documents\Osprey Test\ConsultingOrganization\Case One\bin\Debug\netcoreapp2.2\Case One.pdb
+C:\Users\ahurpdurp\Documents\Osprey Test\ConsultingOrganization\Case One\bin\Debug\netcoreapp2.2\Case One.Views.dll
+C:\Users\ahurpdurp\Documents\Osprey Test\ConsultingOrganization\Case One\bin\Debug\netcoreapp2.2\Case One.Views.pdb
+C:\Users\ahurpdurp\Documents\Osprey Test\ConsultingOrganization\Case One\bin\Debug\netcoreapp2.2\ConsultingCompany.DataStore.dll
+C:\Users\ahurpdurp\Documents\Osprey Test\ConsultingOrganization\Case One\bin\Debug\netcoreapp2.2\ConsultingCompany.Lib.dll
+C:\Users\ahurpdurp\Documents\Osprey Test\ConsultingOrganization\Case One\bin\Debug\netcoreapp2.2\ConsultingCompany.DataStore.pdb
+C:\Users\ahurpdurp\Documents\Osprey Test\ConsultingOrganization\Case One\bin\Debug\netcoreapp2.2\ConsultingCompany.Lib.pdb
+C:\Users\ahurpdurp\Documents\Osprey Test\ConsultingOrganization\Case One\obj\Debug\netcoreapp2.2\Case One.csprojAssemblyReference.cache
+C:\Users\ahurpdurp\Documents\Osprey Test\ConsultingOrganization\Case One\obj\Debug\netcoreapp2.2\Case One.csproj.CoreCompileInputs.cache
+C:\Users\ahurpdurp\Documents\Osprey Test\ConsultingOrganization\Case One\obj\Debug\netcoreapp2.2\Case One.RazorAssemblyInfo.cache
+C:\Users\ahurpdurp\Documents\Osprey Test\ConsultingOrganization\Case One\obj\Debug\netcoreapp2.2\Case One.RazorAssemblyInfo.cs
+C:\Users\ahurpdurp\Documents\Osprey Test\ConsultingOrganization\Case One\obj\Debug\netcoreapp2.2\Case One.AssemblyInfoInputs.cache
+C:\Users\ahurpdurp\Documents\Osprey Test\ConsultingOrganization\Case One\obj\Debug\netcoreapp2.2\Case One.AssemblyInfo.cs
+C:\Users\ahurpdurp\Documents\Osprey Test\ConsultingOrganization\Case One\obj\Debug\netcoreapp2.2\Case One.TagHelpers.input.cache
+C:\Users\ahurpdurp\Documents\Osprey Test\ConsultingOrganization\Case One\obj\Debug\netcoreapp2.2\Case One.TagHelpers.output.cache
+C:\Users\ahurpdurp\Documents\Osprey Test\ConsultingOrganization\Case One\obj\Debug\netcoreapp2.2\Case One.RazorCoreGenerate.cache
+C:\Users\ahurpdurp\Documents\Osprey Test\ConsultingOrganization\Case One\obj\Debug\netcoreapp2.2\Razor\Pages\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\ahurpdurp\Documents\Osprey Test\ConsultingOrganization\Case One\obj\Debug\netcoreapp2.2\Razor\Views\Home\EditClient.g.cshtml.cs
+C:\Users\ahurpdurp\Documents\Osprey Test\ConsultingOrganization\Case One\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\ahurpdurp\Documents\Osprey Test\ConsultingOrganization\Case One\obj\Debug\netcoreapp2.2\Razor\Views\Home\ViewClients.g.cshtml.cs
+C:\Users\ahurpdurp\Documents\Osprey Test\ConsultingOrganization\Case One\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\ahurpdurp\Documents\Osprey Test\ConsultingOrganization\Case One\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\ahurpdurp\Documents\Osprey Test\ConsultingOrganization\Case One\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\ahurpdurp\Documents\Osprey Test\ConsultingOrganization\Case One\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\ahurpdurp\Documents\Osprey Test\ConsultingOrganization\Case One\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\ahurpdurp\Documents\Osprey Test\ConsultingOrganization\Case One\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\ahurpdurp\Documents\Osprey Test\ConsultingOrganization\Case One\obj\Debug\netcoreapp2.2\Case One.RazorTargetAssemblyInfo.cache
+C:\Users\ahurpdurp\Documents\Osprey Test\ConsultingOrganization\Case One\obj\Debug\netcoreapp2.2\Case One.RazorTargetAssemblyInfo.cs
+C:\Users\ahurpdurp\Documents\Osprey Test\ConsultingOrganization\Case One\obj\Debug\netcoreapp2.2\Case One.Views.pdb
+C:\Users\ahurpdurp\Documents\Osprey Test\ConsultingOrganization\Case One\obj\Debug\netcoreapp2.2\Case One.csproj.CopyComplete
+C:\Users\ahurpdurp\Documents\Osprey Test\ConsultingOrganization\Case One\obj\Debug\netcoreapp2.2\Case One.dll
+C:\Users\ahurpdurp\Documents\Osprey Test\ConsultingOrganization\Case One\obj\Debug\netcoreapp2.2\Case One.pdb

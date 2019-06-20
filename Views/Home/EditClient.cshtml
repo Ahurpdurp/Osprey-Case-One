@@ -1,0 +1,22 @@
+﻿@model Client
+@{
+    ViewData["Title"] = "Edit Page";
+}
+
+    <div class="text-center">
+        <h5 class="">Edit Client</h5>
+        <form action="/home/posteditclient" method="POST">
+            <div class="d-flex flex-column w-50 mr-auto ml-auto">
+                <input hidden name="ClientId" class='text-center mt-3' value=@ViewBag.EditClient[0].ClientId />
+                <input name="CompanyName" class='text-center mt-3' value=@ViewBag.EditClient[0].CompanyName placeholder="Company Name" />
+                <input name="FirstName" class='text-center mt-3' value=@ViewBag.EditClient[0].ContactFirstName placeholder="Contact First Name" />
+                <input name="LastName" class='text-center mt-3' value=@ViewBag.EditClient[0].ContactLastName placeholder="Contact Last Name" />
+                <input name="City" class='text-center mt-3' value=@ViewBag.EditClient[0].City placeholder="City" />
+                <input name="State" class='text-center mt-3' value=@ViewBag.EditClient[0].State placeholder="State" />
+                <input name="Zip" class='text-center mt-3' value=@ViewBag.EditClient[0].Zip placeholder="Zip" />
+                <input hidden name="LastUpdated" class='text-center mt-3' value=@ViewBag.EditClient[0].LastUpdated />
+                <button class="btn btn-primary mt-3 w-25 mr-auto ml-auto" type="submit">Edit Client</button>
+            </div>
+            <p>@ViewBag.Message</p>
+        </form>
+    </div>
